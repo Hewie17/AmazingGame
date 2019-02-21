@@ -199,14 +199,6 @@
             }
         },
         {
-            "Key": "e55be77f-12d0-4947-baaf-07d46fc30767",
-            "Value": {
-                "id": "9fad03af-dddf-4441-89d1-e49be6029ad9",
-                "resourcePath": "sprites\\sDoor\\sDoor.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "f11a225a-d99d-444c-81d6-a9adeb267515",
             "Value": {
                 "id": "e3f67617-b3c4-411c-b6fc-928893210133",
