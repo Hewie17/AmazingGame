@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "oSkeleton",
     "eventList": [
-        
+        {
+            "id": "74aa4d8e-b41f-44e8-a5f5-9a8dd105050f",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "df10f841-b3fc-4811-996e-1367c2d415ad"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
