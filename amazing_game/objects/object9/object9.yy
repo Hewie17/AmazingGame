@@ -1,19 +1,10 @@
 {
-    "id": "c164a175-480d-409e-a09f-41a3ff39daf3",
+    "id": "d6f47e99-9482-4673-a093-c0427a66c0db",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oDoor_B",
+    "name": "object9",
     "eventList": [
-        {
-            "id": "09e2610a-67f9-42d7-9c42-5f7c69de33af",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "c164a175-480d-409e-a09f-41a3ff39daf3"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "1ef31ab1-bad3-454f-b981-d093adbce1b2",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }
