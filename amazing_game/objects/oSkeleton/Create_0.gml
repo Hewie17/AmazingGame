@@ -23,11 +23,11 @@ if(room == room_first)
 	/// @DnDVersion : 1.1
 	/// @DnDHash : 4F907B28
 	/// @DnDParent : 172408BE
-	/// @DnDArgument : "path" "path2"
+	/// @DnDArgument : "path" "path3"
 	/// @DnDArgument : "atend" "path_action_reverse"
 	/// @DnDArgument : "relative" "true"
-	/// @DnDSaveInfo : "path" "972cc987-b88e-4e4d-8ebf-6e5360c81ac2"
-	path_start(path2, 1, path_action_reverse, true);
+	/// @DnDSaveInfo : "path" "e0026acc-5e05-4ec8-a5ef-089f6f1d728f"
+	path_start(path3, 1, path_action_reverse, true);
 
 	/// @DnDAction : YoYo Games.Paths.Path_Position
 	/// @DnDVersion : 1

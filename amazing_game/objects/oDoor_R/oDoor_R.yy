@@ -1,8 +1,8 @@
 {
-    "id": "8956d2f9-c650-4329-b73b-b9a5f58d76b5",
+    "id": "45e5a13b-b295-48b5-ab69-6a29d8640b56",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oDoor_R",
+    "name": "oDoor_r",
     "eventList": [
         
     ],

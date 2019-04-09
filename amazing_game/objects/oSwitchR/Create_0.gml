@@ -18,3 +18,16 @@ image_speed = 0;
 /// @DnDArgument : "expr" "true"
 /// @DnDArgument : "var" "canPlaySound"
 canPlaySound = true;
+
+/// @DnDAction : YoYo Games.Common.Execute_Code
+/// @DnDVersion : 1
+/// @DnDHash : 31A49614
+/// @DnDArgument : "code" "isActivated = false;$(13_10)doorsAreClear = true;$(13_10)$(13_10)var i;$(13_10)for (i = 0; i < instance_number(oDoor_r); i += 1)$(13_10){$(13_10)	red_doors[i] = instance_find(oDoor_r, i);	$(13_10)}$(13_10)$(13_10)"
+isActivated = false;
+doorsAreClear = true;
+
+var i;
+for (i = 0; i < instance_number(oDoor_r); i += 1)
+{
+	red_doors[i] = instance_find(oDoor_r, i);	
+}
