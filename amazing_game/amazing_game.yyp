@@ -63,22 +63,6 @@
             }
         },
         {
-            "Key": "102d46c4-e629-4d66-a0e4-b473754c5816",
-            "Value": {
-                "id": "72b187af-0745-4795-a087-cc847436164d",
-                "resourcePath": "objects\\object13\\object13.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "16b8c6aa-735b-4177-bd42-6fe9d81c317a",
-            "Value": {
-                "id": "022fa8ae-6be0-4997-9db5-bac54838c8d4",
-                "resourcePath": "objects\\object14\\object14.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "1d766325-61d6-4216-a368-9c076016ba3f",
             "Value": {
                 "id": "1815b3aa-cda2-497a-9c14-d517d4d7ad73",

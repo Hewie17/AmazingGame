@@ -55,11 +55,11 @@ if(canPlaySound == true)
 	/// @DnDVersion : 1
 	/// @DnDHash : 0DAB9281
 	/// @DnDParent : 4AF46E30
-	/// @DnDArgument : "code" "if(isActivated == false) {$(13_10)	isActivated = true;$(13_10)	image_index = 1;$(13_10)	audio_play_sound(sound_door, 50, false);$(13_10)	alarm_set(0, 150);$(13_10)	oDoor_r.y += 2000;$(13_10)}"
+	/// @DnDArgument : "code" "if(isActivated == false) {$(13_10)	image_index = 1;$(13_10)	audio_play_sound(sound_door, 50, false);$(13_10)	isActivated = true;$(13_10)	alarm_set(0, 150);$(13_10)	oDoor_r.y += 2000;$(13_10)}$(13_10)"
 	if(isActivated == false) {
-		isActivated = true;
 		image_index = 1;
 		audio_play_sound(sound_door, 50, false);
+		isActivated = true;
 		alarm_set(0, 150);
 		oDoor_r.y += 2000;
 	}
